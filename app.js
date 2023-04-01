@@ -32,7 +32,7 @@ loop();
 
 setInterval(() => {
   loop();
-}, 3000);
+}, 2000);
 
 document
   .querySelector(".modal__toggler")
